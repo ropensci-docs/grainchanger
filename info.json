@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6f4c7d5e8a46aa4095167f425e5124ae83dd4d7a",
+    "author": "laurajanegraham <l.graham@bham.ac.uk>",
+    "time": "2021-02-01 13:44:11",
+    "files": 4,
+    "merge": false,
+    "message": "update version number and R CMD check results\n"
+  },
+  "remote": "https://github.com/ropensci/grainchanger",
+  "pkg": "grainchanger"
+}
