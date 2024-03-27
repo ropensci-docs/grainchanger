@@ -1,0 +1,13 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  background: background.html
+  functions: functions.html
+  grainchanger: grainchanger.html
+  user-defined: user-defined.html
+last_built: 2024-03-27T06:59Z
+urls:
+  reference: https://docs.ropensci.org/grainchanger/reference
+  article: https://docs.ropensci.org/grainchanger/articles
+

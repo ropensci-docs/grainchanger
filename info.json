@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "398ce4e0bb4198dcaf069be6e5fdce33f3d4bca0",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2023-06-01 10:22:32",
+    "files": 1,
+    "merge": false,
+    "message": "docs: make pkgdown::check_pkgdown() happy (not sure these are the rights categories)\n"
+  },
+  "repo": "https://github.com/ropensci/grainchanger",
+  "pkg": "grainchanger"
+}
